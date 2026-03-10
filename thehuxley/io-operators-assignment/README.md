@@ -10,5 +10,6 @@ This directory contains solutions for programming challenges hosted on [The Huxl
 * **02-comabem/**: A program that calculates the total bill at the COMABEM restaurant, including a 10% waiter service charge, formatted to two decimal places.
 * **03-car-rental/**: A program designed to calculate vehicle rental costs based on specific parameters such as distance traveled and rental duration.
 * **04-last-digit/**: A program that extracts the last digit (units place) of any integer. It correctly handles negative numbers (e.g., -74 results in -4) using the modulo operator.
+* **05-salary-increase/**: A program that calculates an employee's new salary after applying a 7.5% increase, formatted to two decimal places.
 
 ---
