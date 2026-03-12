@@ -12,6 +12,7 @@ This directory contains solutions for programming challenges hosted on [The Huxl
 * **04-last-digit/**: A program that extracts the last digit (units place) of any integer. It correctly handles negative numbers (e.g., -74 results in -4).
 * **05-salary-increase/**: A program that calculates an employee's new salary after applying a 7.5% increase, formatted to two decimal places.
 * **06-rectangle-area/**: A program that calculates the area of a rectangle given its side lengths.
-* **07-banknotes/**: A program that decomposes an integer value into the minimum possible number of banknotes (100, 50, 20, 10, 5, 2, 1) using optimized remainder assignment.
+* **07-banknotes/**: A program that decomposes an integer value into the minimum possible number of banknotes (100, 50, 20, 10, 5, 2, 1) using optimized remains.
+* **08-basic-operations/**: A calculator that performs the four basic operations on two real numbers, formatted to two decimal places.
 
 ---
