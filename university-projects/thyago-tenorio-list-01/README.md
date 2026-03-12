@@ -21,10 +21,7 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
    * Topic: Digit isolation using modulo and division.
 5. [Question 05 - Reverse Four Digits](./05-reverse-four-digits/)
    * Topic: Advanced digit manipulation and array logic.
+6. [Question 06 - Fahrenheit to Celsius](./06-fahrenheit-to-celsius/)
+   * Topic: Floating-point arithmetic and temperature conversion.
 
-## Compilation Instructions
-To compile any of the exercises, navigate to the specific folder and use the GCC compiler:
 
-```bash
-gcc qXX.c -o main
-./main
