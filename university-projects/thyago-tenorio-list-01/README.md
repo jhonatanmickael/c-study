@@ -25,5 +25,7 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
    * Topic: Floating-point arithmetic and temperature conversion.
 7. [Question 07 - ATM Withdrawal](./07-atm-withdrawal/)
    * Topic: Greedy algorithm for optimal banknote distribution.
+8. [Question 08 - Product Difference](./08-product-difference/)
+   * Topic: Integer products and absolute difference logic.
 
 ---
