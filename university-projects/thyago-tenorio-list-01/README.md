@@ -23,5 +23,7 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
    * Topic: Advanced digit manipulation and array logic.
 6. [Question 06 - Fahrenheit to Celsius](./06-fahrenheit-to-celsius/)
    * Topic: Floating-point arithmetic and temperature conversion.
+7. [Question 07 - ATM Withdrawal](./07-atm-withdrawal/)
+   * Topic: Greedy algorithm for optimal banknote distribution.
 
-
+---
