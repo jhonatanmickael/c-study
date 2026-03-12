@@ -27,5 +27,7 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
    * Topic: Greedy algorithm for optimal banknote distribution.
 8. [Question 08 - Product Difference](./08-product-difference/)
    * Topic: Integer products and absolute difference logic.
+9. [Question 09 - BMI Calculator](./09-imc-calculator/)
+   * Topic: Floating-point math and conditional classification (if/else).
 
 ---
