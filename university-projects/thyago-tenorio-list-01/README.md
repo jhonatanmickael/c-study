@@ -29,5 +29,7 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
    * Topic: Integer products and absolute difference logic.
 9. [Question 09 - BMI Calculator](./09-imc-calculator/)
    * Topic: Floating-point math and conditional classification (if/else).
+10. [Question 10 - Tile Calculator](./10-tile-calculator/)
+    * Topic: Area ratio calculations and practical arithmetic.
 
 ---
