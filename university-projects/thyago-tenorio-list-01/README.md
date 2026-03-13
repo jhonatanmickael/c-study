@@ -37,7 +37,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Sorting algorithms and ascending order logic.
 13. [Question 13 - Voter Category](./13-voter-category/)
     * Topic: Logical operators and complex conditional structures.
+14. [Question 14 - Student Status](./14-student-status/)
+    * Topic: Arithmetic average and conditional performance evaluation.
 
 ---
-
 
