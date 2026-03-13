@@ -33,5 +33,9 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Area ratio calculations and practical arithmetic.
 11. [Question 11 - Smallest of Three](./11-smallest-of-three/)
     * Topic: Decision structures and value comparison.
+12. [Question 12 - Sorting Integers](./12-sort-three-numbers/)
+    * Topic: Sorting algorithms and ascending order logic.
 
 ---
+
+
