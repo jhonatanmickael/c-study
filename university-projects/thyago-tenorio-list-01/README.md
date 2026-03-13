@@ -41,8 +41,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Arithmetic average and conditional performance evaluation.
 15. [Question 15 - Month of the Year](./15-month-of-the-year/)
     * Topic: Multi-selection structures (switch-case) and input validation.
+16. [Question 16 - Quadratic Equation](./16-quadratic-equation/)
+    * Topic: Complex decision structures, Math library (math.h), and Bhaskara's formula.
 
 ---
 
-**Author:** jhonatanmickael
-**Last Update:** March 13, 2026
