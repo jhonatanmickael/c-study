@@ -43,6 +43,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Multi-selection structures (switch-case) and input validation.
 16. [Question 16 - Quadratic Equation](./16-quadratic-equation/)
     * Topic: Complex decision structures, Math library (math.h), and Bhaskara's formula.
+17. [Question 17 - Day of the Week](./17-day-of-the-week/)
+    * Topic: Input-to-string mapping and multi-selection structures (switch-case).
 
 ---
 
