@@ -39,6 +39,10 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Logical operators and complex conditional structures.
 14. [Question 14 - Student Status](./14-student-status/)
     * Topic: Arithmetic average and conditional performance evaluation.
+15. [Question 15 - Month of the Year](./15-month-of-the-year/)
+    * Topic: Multi-selection structures (switch-case) and input validation.
 
 ---
 
+**Author:** jhonatanmickael
+**Last Update:** March 13, 2026
