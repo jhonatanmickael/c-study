@@ -35,6 +35,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Decision structures and value comparison.
 12. [Question 12 - Sorting Integers](./12-sort-three-numbers/)
     * Topic: Sorting algorithms and ascending order logic.
+13. [Question 13 - Voter Category](./13-voter-category/)
+    * Topic: Logical operators and complex conditional structures.
 
 ---
 
