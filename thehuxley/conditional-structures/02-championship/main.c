@@ -1,3 +1,8 @@
+// Author: jhonatanmickael
+// Description: Determines the ranking between Cormengo and Flaminthians based on points (Win=3, Draw=1) and goal difference as a tie-breaker.
+// Challenge by: TheHuxley
+// Date: 2026-03-14
+
 #include <stdio.h>
 
 int main() {

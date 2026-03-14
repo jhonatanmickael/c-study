@@ -8,7 +8,7 @@ This directory contains solutions for programming challenges focused on decision
 
 * **01-quadratic-equation/**: A program that calculates the roots of a quadratic equation ($ax^2 + bx + c = 0$). It handles cases where the equation is not second-degree (NEESG), has no real roots (NRR), or has valid real roots formatted to two decimal places.
 * **02-championship/**: A program that determines the ranking between two football teams (Cormengo and Flaminthians) based on points (3 for win, 1 for draw) and goal difference as a tie-breaker.
+* **03-increasing-order/**: A program that reads three integers and outputs them in ascending order, each on a separate line.
 
 ---
-
 
