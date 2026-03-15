@@ -16,7 +16,7 @@ This block focuses on the fundamentals of structured programming in C.
 This block covers decision-making logic in programming.
 * **Topics**: `if`, `else if`, `else`, Switch-case, and Logical Operators (`&&`, `||`, `!`).
 * **Average Difficulty**: ⭐ (1)
-* **Content**: 6 challenges involving flow control and conditional branching.
+* **Content**: 8 challenges involving flow control and conditional branching.
 
 ---
 
