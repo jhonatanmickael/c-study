@@ -1,26 +1,21 @@
 # The Huxley - Challenge Solutions
 
-This directory contains my solutions for programming challenges hosted on [The Huxley](https://thehuxley.com/), organized by module.
+This repository centralizes the solutions for programming challenges on [The Huxley](https://thehuxley.com/) platform. The structure is divided between the course curriculum and autonomous studies.
 
 ---
 
-## Modules
+## Repository Organization
 
-### 1. [io-operators-assignment](./io-operators-assignment/)
-This block focuses on the fundamentals of structured programming in C.
-* **Topics**: Standard Input/Output (`scanf`, `printf`), Arithmetic Operators, and Variable Assignment.
-* **Content**: 8 challenges ranging from BMI calculation to banknote decomposition.
+To keep progress clear, the repository is divided into two main areas:
 
-### 2. [conditional-structures](./conditional-structures/)
-This block covers decision-making logic in programming.
-* **Topics**: `if`, `else if`, `else`, Switch-case, and Logical Operators (`&&`, `||`, `!`).
-* **Content**: Challenges involving flow control and conditional branching.
+### [Academic Assignments (Tarefas do Professor)](./academic-assignments/)
+Contains the activity blocks (Practical Blocks) assigned by the professor.
+* **Organization**: Divided by thematic modules (Input and Output, Conditionals, etc.).
+* **Context**: Mandatory exercises for reinforcing the curriculum.
 
----
-
-## Progress Tracking
-* **Total Modules**: 2
-* **Total Challenges Completed**: 8 (Module 1) + Currently working on Module 2.
+### [Independent Practice (Exercícios Livres)](./independent-practice/)
+A space dedicated to challenges solved by my own initiative (Free Choice).
+* **Organization**: Various problems from the platform database sought independently.
+* **Context**: Focus on expanding knowledge beyond the classroom and practicing advanced logic.
 
 ---
-*Created by: jhonatanmickael*
