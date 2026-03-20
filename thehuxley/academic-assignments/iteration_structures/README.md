@@ -11,13 +11,14 @@ The following challenges are classified as **Level 1** (Iniciante) and focus on 
 | Folder | Challenge | Level | Description |
 | :--- | :--- | :---: | :--- |
 | **01-sum-of-elements** | Sum of Elements (Soma de Elementos) | ⭐ (1) | Calculates the sum of **n** integers provided in the input. |
+| **02-glucose-monitoring** | Glucose Monitoring (Glicose do Genival) | ⭐ (1) | Calculates the average glucose level until **0** is entered and classifies the result. |
 
 ---
 
 ### 🛠 Technologies and Concepts Practiced
 These **Level 1** exercises focus on:
 * **For Loops**: Used when the number of iterations ($n$) is known beforehand.
-* **While Loops**: Used for conditional repetition and sentinel values.
+* **While Loops**: Used for conditional repetition and sentinel values (like the **0** in glucose monitoring).
 * **Accumulators**: Variables initialized at zero to store running totals (`sum += value`).
 * **Input Handling**: Reading multiple lines of data using `scanf` inside loops.
 * **Complexity Awareness**: Handling up to $10,000$ iterations efficiently.
