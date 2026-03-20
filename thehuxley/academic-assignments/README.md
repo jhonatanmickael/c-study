@@ -1,6 +1,6 @@
 # Academic Assignments
 
-This directory contains the activity blocks (Practical Blocks) assigned by the professor. These modules are part of the official learning curriculum for the programming course.
+This directory contains the activity blocks (Practical Blocks) assigned by the professor. These modules are part of the official learning curriculum.
 
 ---
 
@@ -18,13 +18,19 @@ This block covers decision-making logic in programming.
 * **Average Difficulty**: ⭐ (1)
 * **Content**: 8 challenges involving flow control and conditional branching.
 
+### 3. [iteration-structures](./iteration-structures/)
+This block focuses on repetitive execution and loop control.
+* **Topics**: `while`, `for`, `do-while`, nested loops, and loop control statements (`break`, `continue`).
+* **Average Difficulty**: ⏳ TBD
+* **Content**: Challenges focusing on repetition logic and iterative patterns.
+
 ---
 
 ## Summary
-* **Total Modules**: 2
-* **Overall Average Difficulty**: ⭐ (1)
+* **Total Modules**: 3
+* **Overall Average Difficulty**: ⭐ (1) (Based on completed modules)
 
-> **Note on Difficulty**: The difficulty level for each module is calculated as the average of the star ratings from all challenges included in that block (A média de estrelas dos desafios somados).
+> **Note on Difficulty**: The difficulty level for each module is calculated as the average of the star ratings from all challenges included in that block on The Huxley.
 
 ---
 *Maintained by: jhonatanmickael*
