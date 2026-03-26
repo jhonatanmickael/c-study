@@ -17,5 +17,6 @@ The following challenges are classified by difficulty on a scale from **1 to 5**
 | **05-factorial-sequence** | Factorial of a Sequence | ⭐ (1/5) | Calculates the factorial for a sequence of numbers until -1 is entered. |
 | **06-multiples-of-five** | Multiples of Five | ⭐ (1/5) | Prints all multiples of 5 within a given range, separated by '|'. |
 | **07-odd-numbers** | Odd Numbers | ⭐ (1/5) | Prints all odd numbers between two given integers, each on a new line. |
+| **08-print-1-to-1000** | Print 1 to 1000 | ⭐ (1/5) | Prints all integers from 1 to 1000, one per line. |
 
 ---
