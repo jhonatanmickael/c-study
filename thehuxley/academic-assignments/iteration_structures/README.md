@@ -14,18 +14,16 @@ The following challenges are classified as **Level 1** (Beginner) and focus on i
 | **02-glucose-monitoring** | Glucose Monitoring | ⭐ (1) | Calculates the average glucose level until 0 is entered. |
 | **03-average-age** | Average Age | ⭐ (1) | Calculates the average of ages until a negative value is read. |
 | **04-product-of-primes** | Product of Four Primes | ⭐ (1) | Calculates the product of 4 integers only if all of them are prime. |
+| **05-factorial-sequence** | Factorial of a Sequence | ⭐ (1) | Calculates the factorial for a sequence of numbers until -1 is entered. |
 
 ---
 
 ### Technologies and Concepts Practiced
 These **Level 1** exercises focus on:
 * **For Loops**: Used when the number of iterations is known beforehand.
-* **While Loops**: Used for conditional repetition and sentinel values.
+* **While Loops**: Used for conditional repetition and sentinel values (like -1 or 0).
 * **Boolean Logic**: Implementing custom functions to verify mathematical properties (Primes).
-* **Accumulators and Products**: Variables used to store running totals or multiplied results.
+* **Accumulators and Products**: Variables used to store running totals or multiplied results (Sum, Product, Factorial).
 * **Output Formatting**: Controlling decimal places and handling specific string outputs like "SEM PRODUTO".
 * **Input Handling**: Reading multiple integers using scanf within different structures.
-* **Complexity Awareness**: Optimizing loops with early exits (break) and handling potential overflows with long.
-
----
-
+* **Complexity Awareness**: Optimizing loops with early exits (break) and handling potential overflows with long long.
