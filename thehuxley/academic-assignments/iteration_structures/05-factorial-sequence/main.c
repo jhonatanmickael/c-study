@@ -1,3 +1,8 @@
+// Author: jhonatanmickael
+// Description: Calculates the factorial of a sequence of integers until -1 is encountered.
+// Challenge by: The Huxley
+// Date: 2026-03-26
+
 #include <stdio.h>
 
 long long fatorial(int number) {
