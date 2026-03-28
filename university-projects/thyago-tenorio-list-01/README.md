@@ -1,6 +1,6 @@
 # List 01 - Introduction to Programming
 
-This directory contains the first set of exercises for the Introduction to Programming course, taught by Professor Thyago Tenório at the Federal University of Alagoas (UFAL).
+This directory contains the first set of exercises for the Introduction to Programming course, taught by Professor Thyago Tenório.
 
 ## Objectives
 The primary goal of this list is to practice basic C programming concepts, including:
@@ -45,6 +45,7 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Complex decision structures, Math library (math.h), and Bhaskara's formula.
 17. [Question 17 - Day of the Week](./17-day-of-the-week/)
     * Topic: Input-to-string mapping and multi-selection structures (switch-case).
+18. [Question 18 - Numerical Sequence](./18-numerical-sequence/)
+    * Topic: Repetition structures (loops) and sequential output.
 
 ---
-
