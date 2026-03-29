@@ -47,5 +47,7 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Input-to-string mapping and multi-selection structures (switch-case).
 18. [Question 18 - Numerical Sequence](./18-numerical-sequence/)
     * Topic: Repetition structures (loops) and sequential output.
+19. [Question 19 - Odd Numbers Between Two Values](./19-odd-numbers-between-two-values/)
+    * Topic: Repetition structures (loops) and conditional logic.
 
 ---
