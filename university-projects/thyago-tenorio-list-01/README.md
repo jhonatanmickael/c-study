@@ -53,12 +53,19 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
 20. Question 20 - Multiples of 5 Within a Range (20-multiples-of-5-within-a-range)
     * Topic: Repetition structures (loops) and conditional decision (modulo operator).
 21. Question 21 - Prime Number Checker (21-prime-number-checker)
-    * Topic: Optimized repetition structures and primality testing ($O(\sqrt{n})$).
+    * Topic: Optimized repetition structures and primality testing.
 22. Question 22 - Average of N Real Numbers (22-average-of-n-numbers)
     * Topic: Accumulators and repetition structures for statistical calculations.
-23. Question 23 - Counting Pairs (23-counting-pairs) [PENDING]
-    * Note: Skipped due to prompt inconsistencies/errors.
+23. Question 23 - Counting Pairs (23-counting-pairs)
+    * Topic: Repetition structures and optimized range-based conditional logic.
 24. Question 24 - Multiples of 3 or 5 (24-multiples-of-3-or-5)
     * Topic: Conditional logic with logical OR operator and summations.
+25. Question 25 - Product of Integers (25-product-of-integers)
+    * Topic: Repetition structures and mathematical product accumulation.
+26. Question 26 - Greatest Multiple (26-greatest-multiple)
+    * Topic: Repetition structures and upper limit logic.
 
 ---
+
+**Author:** jhonatanmickael
+**Professor:** Thyago Tenório
