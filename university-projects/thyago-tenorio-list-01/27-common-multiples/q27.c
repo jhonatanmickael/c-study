@@ -1,0 +1,1 @@
+#include <stdio.h>// Como o conjunto de múltiplos comuns é infinito, defini um limite arbitrário de 9999 para viabilizar a execução do programa.int main() {    int x,y,maior;    if(scanf("%d %d",&x,&y)!=2){return 1;}    if(x>y){maior=x;} else{maior=y;}    for(int i=maior; i<=9999; i++){        if(i%x==0 && i%y==0) printf("%d\n", i);    }    return 0;}
