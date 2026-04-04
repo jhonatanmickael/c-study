@@ -64,6 +64,12 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Repetition structures and mathematical product accumulation.
 26. Question 26 - Greatest Multiple (26-greatest-multiple)
     * Topic: Repetition structures and upper limit logic.
+27. Question 27 - Common Multiples (27-common-multiples)
+    * Topic: Repetition structures and logical AND operator (multi-condition filtering).
+28. Question 28 - Blobs Food Supply (28-blobs-food-supply)
+    * Topic: Repetition and decision structures for exponential decay simulation.
+29. Question 29 - Fibonacci Sum (29-fibonacci-sum)
+    * Topic: Repetition structures and mathematical series accumulation.
 
 ---
 
