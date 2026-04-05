@@ -1,4 +1,3 @@
-
 # List 01 - Introduction to Programming
 
 This directory contains the first set of exercises for the Introduction to Programming course, taught by Professor Thyago Tenório.
@@ -73,6 +72,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Repetition structures and mathematical series accumulation.
 30. Question 30 - Increasing Sequence (30-increasing-sequence)
     * Topic: Basic repetition structures and sequential output.
+31. Question 31 - Integer Sequence from 1 to N (31-sequence-1-to-n)
+    * Topic: Repetition structures with variable limits.
 
 ---
 
