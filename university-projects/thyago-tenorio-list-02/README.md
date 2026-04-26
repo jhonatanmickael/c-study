@@ -25,6 +25,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Mathematical formulas based on conditional input (char sex).
 15. Question 15 - Triangle Classifier (15-triangle-classifier)
     * Topic: Triangle validation and classification based on sides.
+17. Question 17 - Arithmetic Mean of Indeterminate Values (17-arithmetic-mean)
+    * Topic: Loops with sentinel values and indeterminate input handling.
 
 ---
 **Author:** jhonatanmickael
