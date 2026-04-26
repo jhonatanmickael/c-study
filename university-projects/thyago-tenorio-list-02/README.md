@@ -27,6 +27,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Triangle validation and classification based on sides.
 17. Question 17 - Arithmetic Mean of Indeterminate Values (17-arithmetic-mean)
     * Topic: Loops with sentinel values and indeterminate input handling.
+18. Question 18 - Factorial Calculator (18-factorial-calculator)
+    * Topic: Iterative or recursive logic for mathematical factorial computation.
 
 ---
 **Author:** jhonatanmickael
