@@ -15,6 +15,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
    * Topic: Age conversion logic using years, months, and days.
 5. Question 07 - Perfect Number Checker (07-perfect-number)
    * Topic: Proper divisors, summation logic, and boolean returns.
+6. Question 09 - Number Sign Checker (09-number-sign)
+   * Topic: Integer-based status codes for positive, negative, and neutral values.
 
 ---
 **Author:** jhonatanmickael
