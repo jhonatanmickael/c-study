@@ -21,6 +21,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Modulo operator (%) and boolean logic for parity verification.
 11. Question 11 - Student Grade Concept (11-grade-concept)
     * Topic: Conditional intervals and returning character (char) concepts.
+12. Question 12 - Ideal Weight Calculator (12-ideal-weight)
+    * Topic: Mathematical formulas based on conditional input (char sex).
 
 ---
 **Author:** jhonatanmickael
