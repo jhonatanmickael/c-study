@@ -13,6 +13,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
    * Topic: Prime number verification, loops, and boolean logic.
 4. Question 06 - Age in Days (06-age-in-days)
    * Topic: Age conversion logic using years, months, and days.
+5. Question 07 - Perfect Number Checker (07-perfect-number)
+   * Topic: Proper divisors, summation logic, and boolean returns.
 
 ---
 **Author:** jhonatanmickael
