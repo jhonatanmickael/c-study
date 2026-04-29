@@ -8,8 +8,12 @@ The teaching process involves regular exercise lists to practice programming log
 ## Contents
 The repository is currently organized as follows:
 
-### 1. List 01 - Prof. Thyago Tenório
+### 1. List 01 - Prof. Thyago Tenório (thyago-tenorio-list-01)
 Focuses on basic input/output, arithmetic operations, and initial logic with arrays.
+
+### 2. List 02 - Prof. Thyago Tenório (thyago-tenorio-list-02)
+Focuses on functions, modularization, and advanced control structures (switch-case, procedures, and return values).
 
 ---
 
+**Author:** jhonatanmickael 
