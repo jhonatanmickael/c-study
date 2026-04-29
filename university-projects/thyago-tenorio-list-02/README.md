@@ -29,6 +29,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Loops with sentinel values and indeterminate input handling.
 18. Question 18 - Factorial Calculator (18-factorial-calculator)
     * Topic: Iterative or recursive logic for mathematical factorial computation.
+20. Question 20 - Multiplication Table (20-multiplication-table)
+    * Topic: Procedures (void functions) and formatted output with iterative loops.
 
 ---
 **Author:** jhonatanmickael
