@@ -11,6 +11,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Logic selection using characters, weighted/harmonic calculations, and modularization.
 03. Question 03 - Prime Number Checker (03-prime-checker)
     * Topic: Prime number verification, loops, and boolean logic.
+04. Question 04 - Bhaskara's Formula (04-bhaskara-roots)
+    * Topic: Output parameters (pass-by-reference), discriminant logic, and roots calculation.
 06. Question 06 - Age in Days (06-age-in-days)
     * Topic: Age conversion logic using years, months, and days.
 07. Question 07 - Perfect Number Checker (07-perfect-number)
