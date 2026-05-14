@@ -13,6 +13,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Prime number verification, loops, and boolean logic.
 04. Question 04 - Bhaskara's Formula (04-bhaskara-roots)
     * Topic: Output parameters (pass-by-reference), discriminant logic, and roots calculation.
+05. Question 05 - Factory Time Converter (05-time-converter)
+    * Topic: Returning multiple values via pointers (void functions) and time unit conversion.
 06. Question 06 - Age in Days (06-age-in-days)
     * Topic: Age conversion logic using years, months, and days.
 07. Question 07 - Perfect Number Checker (07-perfect-number)
