@@ -29,6 +29,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Conditional intervals and returning character (char) concepts.
 12. Question 12 - Ideal Weight Calculator (12-ideal-weight)
     * Topic: Mathematical formulas based on conditional input (char sex).
+13. Question 13 - Three-Number Sort (13-three-number-sort)
+    * Topic: Sorting algorithms using pass-by-reference and pointer value swapping.
 15. Question 15 - Triangle Classifier (15-triangle-classifier)
     * Topic: Triangle validation and classification based on sides using void procedures.
 17. Question 17 - Arithmetic Mean of Indeterminate Values (17-arithmetic-mean)
