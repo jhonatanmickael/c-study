@@ -19,6 +19,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Age conversion logic using years, months, and days.
 07. Question 07 - Perfect Number Checker (07-perfect-number)
     * Topic: Proper divisors, summation logic, and boolean returns.
+08. Question 08 - Swimmer Categorization (08-swimmer-category)
+    * Topic: Pass-by-reference using pointers (char *) and string manipulation with strcpy.
 09. Question 09 - Number Sign Checker (09-number-sign)
     * Topic: Integer-based status codes for positive, negative, and neutral values.
 10. Question 10 - Even or Odd Checker (10-even-or-odd)
