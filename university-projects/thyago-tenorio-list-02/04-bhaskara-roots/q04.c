@@ -1,33 +1,25 @@
 #include <stdio.h>
 #include <math.h>
 
-void baskara(double *pa,double *pb,double *pc) {
-
-    double delta;
-    delta = pow(*pb, 2)-4*(*pa)*(*pc);
-    if(delta<0) {
-        printf("Não existem raízes reaís");
-        return;
-    }
-    else {
-        delta = sqrt(delta);
-
-        double x, y;
-        x = (-1*(*pb)+delta)/(2*(*pa));
-        y = (-1*(*pb)-delta)/(2*(*pa));
-
-        printf("As duas raizes são %.2f e %.2f", x, y);
-        return;
-    }
+void baskara(double a, double b, double c, double *px, double *py, double *pd) {
+    *pd = pow(b, 2)-4*a*c;
+    *px = (-b+sqrt(*pd))/(2*a);
+    *py = (-b-sqrt(*pd))/(2*a);
+    return;
 }
 
 int main() {
     double a, b, c;
-    double *pa = &a, *pb = &b, *pc = &c;
 
-    scanf("%lf %lf %lf", pa, pb, pc);
+    scanf("%lf %lf %lf", &a, &b, &c);
 
-    baskara(pa, pb, pc);
+    double x, y, delta;
+    double *px = &x, *py = &y, *pd = &delta;
+
+    baskara(a, b, c, px, py, pd);
+
+    if(delta<0) printf("Não tem raiz.\n");
+    else printf("x: %.2f\ny: %.2f\n", x, y);
 
     return 0;
 }
