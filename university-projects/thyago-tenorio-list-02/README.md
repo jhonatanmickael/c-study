@@ -31,6 +31,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Mathematical formulas based on conditional input (char sex).
 13. Question 13 - Three-Number Sort (13-three-number-sort)
     * Topic: Sorting algorithms using pass-by-reference and pointer value swapping.
+14. Question 14 - Game Duration Calculator (14-game-duration)
+    * Topic: Time unit conversion logic, handling midnight transitions, and multi-parameter pass-by-reference.
 15. Question 15 - Triangle Classifier (15-triangle-classifier)
     * Topic: Triangle validation and classification based on sides using void procedures.
 17. Question 17 - Arithmetic Mean of Indeterminate Values (17-arithmetic-mean)
