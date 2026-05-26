@@ -41,6 +41,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Loops with sentinel values and indeterminate input handling.
 18. Question 18 - Factorial Calculator (18-factorial-calculator)
     * Topic: Iterative or recursive logic for mathematical factorial computation.
+19. Question 19 - Highest and Lowest Value Finder (19-highest-lowest)
+    * Topic: Fixed-iteration loops, min/max initialization algorithms, and multi-value reference outputs.
 20. Question 20 - Multiplication Table (20-multiplication-table)
     * Topic: Procedures (void functions) and formatted output with iterative loops.
 21. Question 21 - Divisor Counter (21-count-divisors)
