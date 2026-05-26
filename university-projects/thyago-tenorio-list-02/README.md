@@ -35,6 +35,8 @@ Each folder below contains the source code (qXX.c), the compiled executable (mai
     * Topic: Time unit conversion logic, handling midnight transitions, and multi-parameter pass-by-reference.
 15. Question 15 - Triangle Classifier (15-triangle-classifier)
     * Topic: Triangle validation and classification based on sides using void procedures.
+16. Question 16 - City Census Statistics (16-city-census)
+    * Topic: Sentinel-controlled loops, accumulation counters, data tracking, and statistical data returning via pointers.
 17. Question 17 - Arithmetic Mean of Indeterminate Values (17-arithmetic-mean)
     * Topic: Loops with sentinel values and indeterminate input handling.
 18. Question 18 - Factorial Calculator (18-factorial-calculator)
