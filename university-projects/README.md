@@ -14,6 +14,9 @@ Focuses on basic input/output, arithmetic operations, and initial logic with arr
 ### 2. List 02 - Prof. Thyago Tenório (thyago-tenorio-list-02)
 Focuses on functions, modularization, and advanced control structures (switch-case, procedures, and return values).
 
+### 3. Vectors and Matrices (vectors-and-matrices)
+Focuses on data structures, covering memory indexing, sequential allocation, multi-dimensional structures, and coordinate lookup algorithms.
+
 ---
 
-**Author:** jhonatanmickael 
+**Author:** jhonatanmickael
