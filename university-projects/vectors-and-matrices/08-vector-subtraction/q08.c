@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-    int tam=3;
+    int tam=10;
     int *A = (int*) malloc(tam*(sizeof(int)));
     int *B = (int*) malloc(tam*(sizeof(int)));
     int *C = (int*) malloc(tam*(sizeof(int)));
@@ -24,10 +24,17 @@ int main() {
         system("clear");
     }
 
+    printf("----VETOR C----\n");
     for(int i=0; i<tam; i++) {
-        if(i==0) printf("----VETOR C----\n");
         printf("Indice %d: %d\n", i, C[i]);
     }
+
+    while(getchar()!='\n');
+    printf("Pressione [ENTER] para encerrar...");
+    getchar();
+    free(A);
+    free(B);
+    free(C);
 
     return 0;
 }
